@@ -2,7 +2,7 @@
 {
 	"ctf_2fort"
 	{
-		"viewed"		"8"
+		"viewed"		"9"
 	}
 	"pass_brickyard"
 	{
